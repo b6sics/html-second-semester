@@ -1,0 +1,23 @@
+body {
+	text-align: justify;
+}
+
+h1 {
+	color: #0081c4;
+}
+
+.kiemelt {
+	background-color: #F9E3E7;
+	font-weight: bold;
+	padding: 10px;
+	border-left: solid 5px #CC2036;
+}
+li {
+	padding-bottom: 10px;
+}
+
+#keret{
+	background-color: #F9E3E7;
+	padding: 10px;
+	border: solid 1px #CC2036;
+}

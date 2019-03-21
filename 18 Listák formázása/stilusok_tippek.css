@@ -1,0 +1,27 @@
+body {
+	text-align: justify;
+}
+
+h1 {
+	color: #0081c4;
+}
+
+.bevezetes {
+	background-color: #f3f7c6;
+	font-weight: bold;
+	padding: 10px;
+	border-left: solid 8px #b0c917;
+}
+
+li {
+	padding-left: 15px;
+	padding-bottom: 10px;
+}
+
+ul {
+	/* 
+	list-style-type: square;
+	*/
+	list-style-image: url('nap.gif');
+	margin-left: 40px;
+}

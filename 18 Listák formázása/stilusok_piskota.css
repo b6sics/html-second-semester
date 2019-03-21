@@ -1,0 +1,16 @@
+body {
+	text-align: justify;
+}
+
+h1 {
+	color: #0081c4;
+}
+
+ol {
+	list-style-type: upper-roman;
+}
+
+li {
+	padding-left: 15px;
+	padding-bottom: 10px;
+}
