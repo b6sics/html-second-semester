@@ -1,0 +1,49 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background-image: url('hatterem.png');
+	text-align: justify;
+}
+
+#tarolo{
+	width: 800px;
+	margin: 15px auto;
+	background-color: #ffde81;
+}
+
+#fejlec{
+	height: 150px;
+	padding: 10px;
+	background-color: #1133b2;
+	background-image: url('nevetes.jpg');
+	background-position: right bottom;
+	background-repeat: no-repeat;
+}
+
+#lablec{
+	padding: 10px;
+	background-color: #1133b2;
+	color: white;
+}
+
+#navigacio{
+	float: right;
+	width: 200px;
+	padding: 10px;
+	background-color: #ffde81;
+}
+
+#tartalom{
+	margin-right: 220px;
+	padding: 10px;
+	background-color: white;
+}
+
+h1 {
+	margin: 0;
+	padding: 10px;
+	background-color: #b28810;
+	color: white;
+}
+
+
