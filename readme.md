@@ -17,8 +17,8 @@ weboldalak fejlesztése 1.évfolyam 2.félév
 | [24 Gyakorlás](24%20Gyakorl%C3%A1s/index.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/24%20Gyakorl%C3%A1s/index.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/24%20Gyakorl%C3%A1s/stilusok.css) | [.zip](00%20Feladatok/24%20Gyakorl%C3%A1s.zip) |
 | [25 HTML5 a](25%20HTML5/festes/index.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/25%20HTML5/festes/index.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/25%20HTML5/festes/stilusok_festes.css) | [.zip](00%20Feladatok/25%20HTML5.zip) |
 | [25 HTML5 b](25%20HTML5/viccek/index.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/25%20HTML5/viccek/index.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/25%20HTML5/viccek/stilusok.css) | [.zip](00%20Feladatok/25%20HTML5.zip) |
-| []() | [.html]() | [.css]() | [.zip](00%20Feladatok/26%20Multim%C3%A9dia%201.zip) |
-| []() | [.html]() | [.css]() | [.zip](00%20Feladatok/27%20Multim%C3%A9dia%202.zip) |
+| [26 Multimédia 1](26%20Multim%C3%A9dia%201/index.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/26%20Multim%C3%A9dia%201/index.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/26%20Multim%C3%A9dia%201/stilusok.css) | [.zip](00%20Feladatok/26%20Multim%C3%A9dia%201.zip) |
+| [27 Multimédia 2](27%20Multim%C3%A9dia%202/index.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/27%20Multim%C3%A9dia%202/index.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/27%20Multim%C3%A9dia%202/stilus.css) | [.zip](00%20Feladatok/27%20Multim%C3%A9dia%202.zip) |
 | []() | [.html]() | [.css]() | [.zip](00%20Feladatok/28%20CSS3.zip) |
 | []() | [.html]() | [.css]() | [.zip](00%20Feladatok/29%20Sz%C3%ADn%C3%A1tmenetek.zip) |
 | []() | [.html]() | [.css]() | [.zip](00%20Feladatok/30%20Transzform%C3%A1ci%C3%B3k.zip) |
