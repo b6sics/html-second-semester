@@ -41,7 +41,7 @@ weboldalak fejlesztése 1.évfolyam 2.félév
 | [41 Flexbox 4](41%20Flexbox%204/index.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/41%20Flexbox%204/index.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/41%20Flexbox%204/styles.css) | [.zip](00%20Feladatok/41%20Flexbox%204.zip) |
 | [42 Flexbox 5](42%20Flexbox%205/index.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/42%20Flexbox%205/index.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/42%20Flexbox%205/styles.css) | [.zip](00%20Feladatok/42%20Flexbox%205.zip) |
 
-[https://csstools.github.io/normalize.css/](https://csstools.github.io/normalize.css/)
+[**download** normalize.css](https://csstools.github.io/normalize.css/)
 
 ## Home
 
