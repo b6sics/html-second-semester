@@ -1,4 +1,4 @@
-# html-first-steps
+# html-second-semester
 weboldalak fejlesztése 1.évfolyam 2.félév
 
 ## Html
