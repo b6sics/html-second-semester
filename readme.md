@@ -1,5 +1,5 @@
 # html-first-steps
-weboldalak fejlesztése 1.évfolyam 1.félév
+weboldalak fejlesztése 1.évfolyam 2.félév
 
 ## Html
 
