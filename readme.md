@@ -33,11 +33,15 @@ weboldalak fejlesztése 1.évfolyam 2.félév
 | [36 Gyakorlás 1](36%20Gyakorl%C3%A1s/index.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/36%20Gyakorl%C3%A1s/index.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/36%20Gyakorl%C3%A1s/stilusok.css) | [.zip](00%20Feladatok/36%20Gyakorl%C3%A1s.zip) |
 | [37 Gyakorlás 2a](37%20Gyakorl%C3%A1s/index.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/37%20Gyakorl%C3%A1s/index.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/37%20Gyakorl%C3%A1s/stilusok.css) | [.zip](00%20Feladatok/37%20Gyakorl%C3%A1s.zip) |
 | [37 Gyakorlás 2b](37%20Gyakorl%C3%A1s/index-mobilFirst.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/37%20Gyakorl%C3%A1s/index-mobilFirst.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/37%20Gyakorl%C3%A1s/stilusok-mobilFirst.css) | [.zip](00%20Feladatok/37%20Gyakorl%C3%A1s.zip) |
-| []() | [.html]() | [.css]() | [.zip](00%20Feladatok/38%20Flexbox%201.zip) |
-| []() | [.html]() | [.css]() | [.zip](00%20Feladatok/39%20Flexbox%202.zip) |
-| []() | [.html]() | [.css]() | [.zip](00%20Feladatok/40%20Flexbox%203.zip) |
-| []() | [.html]() | [.css]() | [.zip](00%20Feladatok/41%20Flexbox%204.zip) |
-| []() | [.html]() | [.css]() | [.zip](00%20Feladatok/42%20Flexbox%205.zip) |
+| [38 Flexbox 1](38%20Flexbox%201/doboz.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/38%20Flexbox%201/doboz.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/38%20Flexbox%201/doboz.css) | [.zip](00%20Feladatok/38%20Flexbox%201.zip) |
+| [39 Flexbox 2a](39%20Flexbox%202/doboz.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/39%20Flexbox%202/doboz.html) | [.csshttps://github.com/b6sics/html-second-semester/blob/master/39%20Flexbox%202/doboz.css | [.zip](00%20Feladatok/39%20Flexbox%202.zip) |
+| [39 Flexbox 2b](39%20Flexbox%202/pl1.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/39%20Flexbox%202/pl1.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/39%20Flexbox%202/pl1.css) | [.zip](00%20Feladatok/39%20Flexbox%202.zip) |
+| [40 Flexbox 3a](40%20Flexbox%203/doboz.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/40%20Flexbox%203/doboz.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/40%20Flexbox%203/doboz.css) | [.zip](00%20Feladatok/40%20Flexbox%203.zip) |
+| [40 Flexbox 3b](40%20Flexbox%203/pl.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/40%20Flexbox%203/pl.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/40%20Flexbox%203/pl.css) | [.zip](00%20Feladatok/40%20Flexbox%203.zip) |
+| [41 Flexbox 4](41%20Flexbox%204/index.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/41%20Flexbox%204/index.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/41%20Flexbox%204/styles.css) | [.zip](00%20Feladatok/41%20Flexbox%204.zip) |
+| [42 Flexbox 5](42%20Flexbox%205/index.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/42%20Flexbox%205/index.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/42%20Flexbox%205/styles.css) | [.zip](00%20Feladatok/42%20Flexbox%205.zip) |
+
+[https://csstools.github.io/normalize.css/](https://csstools.github.io/normalize.css/)
 
 ## Home
 
