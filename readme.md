@@ -13,7 +13,7 @@ weboldalak fejlesztése 1.évfolyam 2.félév
 | [20 Táblázat formázása](20%20T%C3%A1bl%C3%A1zat%20form%C3%A1z%C3%A1sa/vulkan.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/20%20T%C3%A1bl%C3%A1zat%20form%C3%A1z%C3%A1sa/vulkan.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/20%20T%C3%A1bl%C3%A1zat%20form%C3%A1z%C3%A1sa/stilusok.css) | [.zip](00%20Feladatok/20%20T%C3%A1bl%C3%A1zat%20form%C3%A1z%C3%A1sa.zip) |
 | [21 Körbefuttatás](21%20K%C3%B6rbefuttat%C3%A1s/hajo.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/21%20K%C3%B6rbefuttat%C3%A1s/hajo.html) | | [.zip](00%20Feladatok/21%20K%C3%B6rbefuttat%C3%A1s.zip) |
 | [22 Elrendezés](22%20Elrendez%C3%A9s/index.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/22%20Elrendez%C3%A9s/index.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/22%20Elrendez%C3%A9s/stilusok.css) | [.zip](00%20Feladatok/22%20Elrendez%C3%A9s.zip) |
-| []() | [.html]() | [.css]() | [.zip](00%20Feladatok/23%20Navig%C3%A1ci%C3%B3.zip) |
+| [23 Navigáció](23%20Navig%C3%A1ci%C3%B3/index.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/23%20Navig%C3%A1ci%C3%B3/index.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/23%20Navig%C3%A1ci%C3%B3/stilusok.css) | [.zip](00%20Feladatok/23%20Navig%C3%A1ci%C3%B3.zip) |
 | []() | [.html]() | [.css]() | [.zip](00%20Feladatok/24%20Gyakorl%C3%A1s.zip) |
 | []() | [.html]() | [.css]() | [.zip](00%20Feladatok/25%20HTML5.zip) |
 | []() | [.html]() | [.css]() | [.zip](00%20Feladatok/26%20Multim%C3%A9dia%201.zip) |
