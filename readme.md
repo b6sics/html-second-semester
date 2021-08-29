@@ -5,7 +5,9 @@ weboldalak fejlesztése 1.évfolyam 2.félév
 
 | lecke megoldás | html forráskód | style forráskód | feladat kiírás |
 | :------------- | -------------: | --------------: | -------------: |
-| []() | [.html]() | [.css]() | [.zip](00%20Feladatok/18%20List%C3%A1k%20form%C3%A1z%C3%A1sa.zip) |
+| [18 Listák formázása a](18%20List%C3%A1k%20form%C3%A1z%C3%A1sa/fold.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/18%20List%C3%A1k%20form%C3%A1z%C3%A1sa/fold.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/18%20List%C3%A1k%20form%C3%A1z%C3%A1sa/stilusok_fold.css) | [.zip](00%20Feladatok/18%20List%C3%A1k%20form%C3%A1z%C3%A1sa.zip) |
+| [18 Listák formázása b](18%20List%C3%A1k%20form%C3%A1z%C3%A1sa/piskota.html) | [.html](https://github.com/b6sics/html-second-semester/blob/master/18%20List%C3%A1k%20form%C3%A1z%C3%A1sa/piskota.html) | [.css](https://github.com/b6sics/html-second-semester/blob/master/18%20List%C3%A1k%20form%C3%A1z%C3%A1sa/stilusok_piskota.css) | [.zip](00%20Feladatok/18%20List%C3%A1k%20form%C3%A1z%C3%A1sa.zip) |
+| [18 Listák formázása c](18%20List%C3%A1k%20form%C3%A1z%C3%A1sa/tippek.html) | [.html]() | [.css](https://github.com/b6sics/html-second-semester/blob/master/18%20List%C3%A1k%20form%C3%A1z%C3%A1sa/stilusok_tippek.css) | [.zip](00%20Feladatok/18%20List%C3%A1k%20form%C3%A1z%C3%A1sa.zip) |
 | []() | [.html]() | [.css]() | [.zip](00%20Feladatok/19%20%C5%B0rlapok%20form%C3%A1z%C3%A1sa.zip) |
 | []() | [.html]() | [.css]() | [.zip](00%20Feladatok/20%20T%C3%A1bl%C3%A1zat%20form%C3%A1z%C3%A1sa.zip) |
 | []() | [.html]() | [.css]() | [.zip](00%20Feladatok/21%20K%C3%B6rbefuttat%C3%A1s.zip) |
